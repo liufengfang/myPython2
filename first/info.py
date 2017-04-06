@@ -1,1 +1,3 @@
-print "hello,python,i'm comming!"
+name = raw_input()
+print "my son's name is", name
+
